@@ -53,7 +53,7 @@ jobs:
             fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push guestbook update
         run: |
-          git config --global user.name 'Github Actions'
+          git config --global user.name 'Guestbook Bot'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am 'feat: update guestbook'
           git push
