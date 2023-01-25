@@ -17,8 +17,6 @@
 [![](assets/guestbook.png)](https://github.com/TriHydera/TriHydera/issues/1)
 
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
 <!-- /Guestbook -->
   
 </div>
