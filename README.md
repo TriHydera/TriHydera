@@ -12,7 +12,7 @@
 
 ## :fire: Heres my stats card!
   
-<img src="https://server.dooboo.io/github-stats-advanced/TriHydera" style="width: 70%; max-width: 500px;">
+<img src="https://github-readme-stats.vercel.app/api?username=TriHydera&show_icons=true" style="width: 70%; max-width: 500px;">
   
   
 
