@@ -26,7 +26,7 @@ Flame and zap, what can I say?
 
 ## :book: Sign my guest book please 
 
-<a href="https://github.com/TriHydera/.github/issues/1">
+<a href="../../issues/1">
 <img src="assets/guestbook.png" style="width: 70%; max-width: 500px;">
 </a>
 
