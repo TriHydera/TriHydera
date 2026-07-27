@@ -20,7 +20,8 @@ Flame and zap, what can I say?
 
 ## :fire: Heres my stats card!
   
-<img src="https://github-readme-stats.vercel.app/api?username=TriHydera&show_icons=true" style="width: 70%; max-width: 500px;">
+<img src="https://ghstats.dev/api/card?username=TriHydera&theme=nord&show_ring=false&hide_title=true&hide=avg%2Ctrend%2Cweek%2Cstreak%2Chours%2Cissues%2Ccommits%2Cprs%2Cgrade%2Ccontributions%2Cactive_day" alt="GitHub Stats Card" />
+
 
 <img src="assets/fire_row.png" style="width: 100%; max-width: 600px;">
 
